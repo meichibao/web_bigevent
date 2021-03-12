@@ -8,6 +8,10 @@ body {
     background-size: cover;
 }
 
+.header {
+    padding-top: 20px;
+}
+
 /* <!-- 登录注册区域 --> */
 .login {
     width: 400px;
